@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="341" height="299" viewBox="0 0 341 299">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #343434;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="BlackMenu.svg" class="cls-1" d="M960,679V636.284h341V679H960Zm0-170.856h341v42.714H960V508.142ZM960,380h341v42.714H960V380Z" transform="translate(-960 -380)"/>
+</svg>

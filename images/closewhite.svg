@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="342" height="342" viewBox="0 0 342 342">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        fill-rule: evenodd;
+      }
+    </style>
+  </defs>
+  <path id="CloseWhite.svg" class="cls-1" d="M1131,1140.79L1100.81,1171,960,1030.17,819.189,1171,789,1140.79l140.8-140.818L789.053,859.2,819.242,829,960,969.774,1100.76,829l30.19,30.2L990.194,999.972Z" transform="translate(-789 -829)"/>
+</svg>
