@@ -48,7 +48,7 @@
       u.async = !0,
       u.timeout = 12e4,
       i.nc && u.setAttribute("nonce", i.nc),
-      u.src = i.p + "./do/do." + ({
+      u.src = i.p + "./js/do/do." + ({
           0: "form",
           1: "marquee",
           2: "image",
